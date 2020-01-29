@@ -1,3 +1,1 @@
-print working directory
-list
-change directory
+the commands are very useful for general navigation within linux learn them and practicalos
