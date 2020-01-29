@@ -1,2 +1,2 @@
 print working directory
-list
+listit
