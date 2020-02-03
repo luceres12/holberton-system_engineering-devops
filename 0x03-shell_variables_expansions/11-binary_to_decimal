@@ -1,2 +1,2 @@
 #!/bin/bash
-printf \ uHHHH BINARY
+printf '%x\n' "$((2#101010101))"
