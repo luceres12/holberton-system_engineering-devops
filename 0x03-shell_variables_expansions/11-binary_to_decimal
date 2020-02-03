@@ -1,2 +1,2 @@
 #!/bin/bash
-printf \ xHH BINARY
+printf \ uHHHH BINARY
